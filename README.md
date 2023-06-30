@@ -8,11 +8,11 @@ This project uses data from [Plausible Analytics](https://plausible.io/) to prov
 
 1. Clone the repository.
    ```
-   git clone https://github.com/yourusername/my-data-analysis-project.git
+   git clone https://github.com/dimsome/sismo-analytics.git
    ```
 2. Navigate to the project directory.
    ```
-   cd my-data-analysis-project
+   cd sismo-analytics
    ```
 3. Create a virtual environment.
    ```
